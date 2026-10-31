@@ -1,0 +1,7 @@
+# NOVA - Librerias del proyecto
+# Se instalan con: pip install -r requirements.txt
+
+TikTokLive
+google-genai
+edge-tts
+pygame
